@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">이름캐미</string>
+    <string name="btn_action">분석결과 알아보기</string>
+    <string name="result_char_place">place</string>
+    <string name="icon_desc">icon</string>
+    <string name="title_text">Name Chemistry</string>
+    <string name="main_title">NAME CHEMISTRY</string>
+    <string name="title_kr">#이름캐미 #이름궁합</string>
+    <string name="main_title_kor">이름캐미</string>
+    <string name="title_desc_text">우리는 서로 얼마나 좋아하고 있을까?</string>
+    <string name="name_first_hint">당신의 이름을 입력해주세요.</string>
+    <string name="name_second_hint">상대방의 이름을 입력해주세요.</string>
+</resources>

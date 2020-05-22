@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="result_container_width">50sp</dimen>
+    <dimen name="result_container_height">50sp</dimen>
+    <dimen name="result_text_size">20sp</dimen>
+    <dimen name="text_res_padding">20dp</dimen>
+    <dimen name="text_res_margin">4dp</dimen>
+    <dimen name="final_score_size">32sp</dimen>
+    <dimen name="text_small">16sp</dimen>
+    <dimen name="title_start_padding">36dp</dimen>
+    <dimen name="big_title">50sp</dimen>
+    <dimen name="main_intro_height">350dp</dimen>
+    <dimen name="banner_text_size">40sp</dimen>
+</resources>
